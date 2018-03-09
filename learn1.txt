@@ -2,3 +2,4 @@ git is free software
 git can insquire server changes
 git is a system which contains stage
 git branch and merage is fast
+git can merge branched
