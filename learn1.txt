@@ -1,2 +1,3 @@
 git is free software
 git can insquire server changes
+git is a system which contains stage
